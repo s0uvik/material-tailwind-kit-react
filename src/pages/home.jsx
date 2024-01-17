@@ -19,7 +19,7 @@ export function Home() {
   return (
     <>
       <div className="relative flex h-screen content-center items-center justify-center pt-16 pb-32">
-        <div className="absolute top-0 h-full w-full bg-[url('/img/background-3.png')] bg-cover bg-center" />
+        <div className="absolute top-0 h-full w-full bg-[url('https://storyvord.com/img/video-bg.png')] bg-cover bg-center" />
         <div className="absolute top-0 h-full w-full bg-black/60 bg-cover bg-center" />
         <div className="max-w-8xl container relative mx-auto">
           <div className="flex flex-wrap items-center">
@@ -29,12 +29,10 @@ export function Home() {
                 color="white"
                 className="mb-6 font-black"
               >
-                Your story starts with us.
+                WE HELP SHOOT CONTENT ANYWHERE IN THE WORLD
               </Typography>
               <Typography variant="lead" color="white" className="opacity-80">
-                This is a simple example of a Landing Page you can build using
-                Material Tailwind. It features multiple components based on the
-                Tailwind CSS and Material Design by Google.
+              Our AI-powered tools make the production process more efficient and save costs up to 50%
               </Typography>
             </div>
           </div>
@@ -65,12 +63,12 @@ export function Home() {
                 className="mb-3 font-bold"
                 color="blue-gray"
               >
-                Working with us is a pleasure
+                ABOUT STORYVORD
               </Typography>
               <Typography className="mb-8 font-normal text-blue-gray-500">
-                Don't let your uses guess by attaching tooltips and popoves to
-                any element. Just make sure you enable them first via
-                JavaScript.
+              We connect global filmmakers like writers, designers, video producers, animators, audio engineers, and photographers to connect with corporations, production agencies and brands in 18 countries.
+
+Our AI-powered process and global content-creator community reduce the cost of content creation by up to 50% through remote execution.
                 <br />
                 <br />
                 The kit comes with three pre-built pages to help you get started

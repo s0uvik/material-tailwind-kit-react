@@ -5,24 +5,24 @@ import {
 export const featuresData = [
   {
     color: "gray",
-    title: "Awarded Agency",
+    title: "EFFICIENT",
     icon: ChatBubbleBottomCenterTextIcon,
     description:
-      "Divide details about your product or agency work into parts. A paragraph describing a feature will be enough.",
+      "We make video production simple and affordable. Our process is smooth and time-efficient. We can shoot multiple country videos at the same time.",
   },
   {
     color: "gray",
-    title: "Free Revisions",
+    title: "TRANSPARENCY",
     icon: ChatBubbleBottomCenterTextIcon,
     description:
-      "Keep you user engaged by providing meaningful information. Remember that by this time, the user is curious.",
+      "Approval at each stage with real-time monitoring of all your projects in progress with our transparent delivery system.",
   },
   {
     color: "gray",
-    title: "Verified Company",
+    title: "GLOBAL COMMUNITY",
     icon: ChatBubbleBottomCenterTextIcon,
     description:
-      "Write a few lines about each one. A paragraph describing a feature will be enough. Keep you user engaged!",
+      "Our global community of creators share real-time collaboration, pool resources like share equipment and leverage each other's expertise.",
   },
 ];
 
